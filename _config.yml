@@ -1,0 +1,9 @@
+# Site settings
+title: CodeForThailand
+email: codeforthailand@gmail.com
+description: "CodeForThailand"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
